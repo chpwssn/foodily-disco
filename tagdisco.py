@@ -24,8 +24,10 @@ parser.add_option("-p", dest="page", type="int",
                   help="The page number to pull from the api")
 parser.add_option("-s", dest="size", type="int", default="1000",
                   help="The page size to pull from the api")
-parser.add_option("-S", dest="term",
+parser.add_option("-S", dest="term", default="*",
                   help="Search term")
+parser.add_option("-F", dest="destfile",
+                  help="Destination file")
 
 (options, args) = parser.parse_args()
 
@@ -35,11 +37,9 @@ htmlparser = LinksExtractor(format)
 
 url = "http://www.foodily.com/api/1/s/"+options.term+"?n="+str(options.size)+"&s="+str(options.page)
 
-termforfile = options.term
-if options.term == "*":
-    termforfile = "star"
+termforfile = re.sub(r'\*','star',options.term)
 
-with open(termforfile+"-"+str(options.size)+"-"+str(options.page)+"-"+str(int(time.time()))+"-"+version+"disco.txt","w") as logfile:
+with open(options.destfile,"w") as logfile:
     print url
     data = urllib.urlopen(url)
     htmlparser.feed(data.read())
