@@ -1,0 +1,273 @@
+/s/101 Cookbooks
+/s/4th of july
+/s/80 Breakfasts
+/s/A Pretty Life
+/s/A Spicy Perspective
+/s/Abe%27s Market
+/s/All You
+/s/AllRecipes.com
+/s/America%27s Test Kitchen Feed
+/s/Andrea%27s Recipes
+/s/Arctic Garden Studio
+/s/BBC Good Food
+/s/Bakerella
+/s/Bakers Royale
+/s/Betty Crocker
+/s/Big Girls Small Kitchen
+/s/Bobby Flay on Food Network
+/s/Bon Appetit
+/s/Buddy Valastro - Cake Boss
+/s/Candice Kumai
+/s/Cannelle et Vanille
+/s/Canning with Kids
+/s/Cat Cora
+/s/Celiac Chicks
+/s/Cheeky Kitchen
+/s/Chef Bradley Ogden
+/s/Chubby Hubby
+/s/Closet Cooking
+/s/Coastal Living
+/s/Coconut %26 Lime
+/s/Cook Almost Anything
+/s/Cook Taste Eat
+/s/Cookie and Kate
+/s/Cooking Light
+/s/Cooking with Michele
+/s/Cream Puffs in Venice
+/s/Cristina Ferrare
+/s/Dana Treat
+/s/Dashing Dish
+/s/David Lebovitz
+/s/Dessert First
+/s/Donal Skehan
+/s/Eat Yourself Skinny
+/s/Eating Well
+/s/Epicurious
+/s/Every Day with Rachael Ray
+/s/Farmgirl Gourmet
+/s/Feed Me Phoebe
+/s/Fine Cooking
+/s/Food %26 Wine
+/s/Food Network
+/s/Food Republic
+/s/Food.com
+/s/Food52
+/s/Foodess
+/s/For the Love of Cooking
+/s/Framed Cooks
+/s/Ghirardelli
+/s/Giada De Laurentiis on Food Network
+/s/Gluten Free Girl
+/s/Gluten Free Goddess
+/s/Grab A Plate
+/s/Greatist
+/s/Guy Fieri on Food Network
+/s/Handle the Heat
+/s/Healthy Happy Life
+/s/Hershey%27s
+/s/Homesick Texan
+/s/Honey %26 Jam
+/s/How Sweet It Is
+/s/HuffPost Taste
+/s/Hungry Hungry Hippie
+/s/In Erika%27s Kitchen
+/s/In Jennie%27s Kitchen
+/s/Ina Garten on Food Network
+/s/Indian Simmer
+/s/Jamie Oliver
+/s/Jelly Shot Test Kitchen
+/s/Joy The Baker
+/s/Joy of Kosher
+/s/Kayotic Kitchen
+/s/King Arthur Flour
+/s/Kitchen Daily
+/s/Kitchenist
+/s/Kumquat
+/s/La Tartine Gourmande
+/s/La Tavola Marche
+/s/Land O Lakes
+/s/Leite%27s Culinaria
+/s/Lottie   Doof
+/s/Louanne%27s Kitchen
+/s/Lulu Powers
+/s/Mark Bittman
+/s/Marla Meridith
+/s/Martha Stewart
+/s/McCormick
+/s/Michael Chiarello on Food Network
+/s/Michael Ruhlman
+/s/My Baking Addiction
+/s/My Recipes
+/s/New Year's
+/s/Nigella Lawson on Food Network
+/s/No Recipes
+/s/Noble Pig
+/s/Nom Nom Paleo
+/s/Not Without Salt
+/s/Oh My Veggies
+/s/Oh She Glows
+/s/One Hungry Mama
+/s/Oprah
+/s/Orangette
+/s/Oxmoor House
+/s/Pamela Salzman
+/s/Paula Deen on Food Network
+/s/Penzeys
+/s/PersonalRecipe
+/s/Pham Fatale
+/s/Pip %26 Ebby
+/s/Prevention
+/s/Rachael Ray
+/s/Rachael Ray on Food Network
+/s/Real Simple
+/s/SF Gate
+/s/SHAPE Magazine
+/s/Salad Pride
+/s/Saveur
+/s/Savoring the Thyme
+/s/Self Magazine
+/s/Serious Eats
+/s/Seven Spoons
+/s/Simply Recipes
+/s/Sippity Sup
+/s/Skinny Taste
+/s/Southern Living
+/s/Southern Living Cooking School
+/s/Spoon Fork Bacon
+/s/SprinkleBakes
+/s/Sprouted Kitchen
+/s/Steamy Kitchen
+/s/Sunday Suppers
+/s/Sunset
+/s/Sweet Tooth
+/s/Take a Megabite
+/s/The Bitten Word
+/s/The British Larder
+/s/The Dr. Oz Show
+/s/The Family Dinner
+/s/The Giant Blog of Cooking%2C Crafting%2C and Other Activities
+/s/The Kitchn
+/s/The Naptime Chef
+/s/The New York Times
+/s/The Pioneer Woman
+/s/The Skinny
+/s/This Mama Cooks%21
+/s/Tokyo Terrace
+/s/Turntable Kitchen
+/s/Two Peas %26 Their Pod
+/s/Tyler Florence
+/s/Tyler Florence on Food Network
+/s/Umami Girl
+/s/Use Real Butter
+/s/Veggie Num Num
+/s/What%27s Cooking%3F
+/s/Where Women Cook
+/s/White On Rice Couple
+/s/Whole Foods Market
+/s/Whole Living
+/s/Williams-Sonoma
+/s/Wolfgang Puck
+/s/Wolfgang Puck on Food Network
+/s/XO Breakfast
+/s/Yummy Mummy
+/s/african
+/s/american
+/s/appetizer
+/s/appetizers
+/s/arab
+/s/argentine
+/s/asian
+/s/beverage
+/s/brazilian
+/s/breakfast
+/s/breakfast-without-eggs
+/s/british
+/s/brunch
+/s/cakes-without-chocolate
+/s/caribbean
+/s/carnaval
+/s/chicken-with-rosemary
+/s/chinese
+/s/chinese new year
+/s/chocolate-chip-cookies-recipes
+/s/christmas
+/s/cinco de mayo
+/s/cocktail
+/s/dairy free
+/s/dessert
+/s/dessert-recipes
+/s/dinner
+/s/donna hay
+/s/easter
+/s/eggplant-recipes
+/s/fathers day
+/s/fingerfood
+/s/fish-recipes
+/s/french
+/s/german
+/s/gluten free
+/s/greek
+/s/halloween
+/s/hanukkah
+/s/hawaiian
+/s/healthy-dinner-recipes
+/s/iftar
+/s/indian
+/s/indonesian
+/s/irish
+/s/italian
+/s/italian christmas
+/s/japanese
+/s/labor day
+/s/latin
+/s/lemon-with-capers
+/s/low carb
+/s/low fat
+/s/low-carb-casseroles
+/s/low-fat-picatta
+/s/lunch
+/s/main-dish
+/s/malaysian
+/s/mardi gras
+/s/mario-batali-pasta
+/s/mediterranean
+/s/melting butter
+/s/memorial day
+/s/mexican
+/s/middle-eastern
+/s/mothers' day
+/s/nut free
+/s/passover
+/s/pasta-recipes
+/s/peruvian
+/s/pictures %26 pancakes
+/s/pioneer-woman-desserts
+/s/purim
+/s/quick-chicken-dinner-recipes
+/s/quinoa-recipes
+/s/rosh hashanah
+/s/saint patrick's day
+/s/salad
+/s/salad-recipes
+/s/salmon-recipes
+/s/shrove tuesday
+/s/sides
+/s/smitten kitchen
+/s/snacks
+/s/soups
+/s/southern
+/s/spanish
+/s/sugar free
+/s/swiss
+/s/texmex
+/s/thai
+/s/thanksgiving
+/s/thanksgiving leftovers
+/s/turkish
+/s/valentines day
+/s/vegan
+/s/vegan-recipes
+/s/vegetarian
+/s/vietnamese
+/s/yom kippur
+/s/zucchini-recipes
