@@ -1,0 +1,4 @@
+http://www.foodily.com/u/KellyCourson?tab=originals&page=0
+http://www.foodily.com/u/KellyCourson?tab=originals&page=1
+http://www.foodily.com/u/KellyCourson?tab=faves&page=0
+http://www.foodily.com/u/KellyCourson?tab=faves&page=1
