@@ -17,7 +17,10 @@ class LinksExtractor(htmllib.HTMLParser):
     def get_links(self):
         return self.links
 
-version ="1"
+version ="2"
+
+recipes_done = set()
+offsites_done = set()
 
 parser = OptionParser()
 parser.add_option("-p", dest="page", type="int",
@@ -49,6 +52,10 @@ with open(options.destfile,"w") as logfile:
         try:
             recipe = re.search(r'/r/(.+?)$',link).group(1)
             recipe = "recipe:"+recipe
+            if recipe in recipes_done:
+                recipe = ""
+            else:
+                recipes_done.add(recipe)
         except:
             recipe = ""
         if len(recipe) > 0:
@@ -57,6 +64,10 @@ with open(options.destfile,"w") as logfile:
         try:
             offsite = re.search(r'(https?://.+?)$',link).group(1)
             offsite = "offsite:"+offsite
+            if offsite in offsites_done:
+                offsite = ""
+            else:
+                offsites_done.add(offsite)
         except:
             offsite = ""
         if len(offsite) > 0:
